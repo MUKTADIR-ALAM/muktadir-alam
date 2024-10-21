@@ -15,7 +15,7 @@
 - 📫 How to reach me **muktdiralam38@gmail.com**
 
 - ⚡ Fun fact **! I can lick my own elbow**
-- <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="" width="300" height="300"/>
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="" width="200" height="200"/>
 </div>
 
 <h3 align="left">Connect with me:</h3>
