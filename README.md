@@ -6,11 +6,10 @@
 
 <div style="display: flex; justify-content: center; align-items: center">
   <div style="width: 50%">
-    - 🌱 I’m currently learning **React** - 👨‍💻 All of my projects are available
-    at
-    [https://github.com/MUKTADIR-ALAM?tab=repositories](https://github.com/MUKTADIR-ALAM?tab=repositories)
-    - 💬 Ask me about **react** - 📫 How to reach me **muktdiralam38@gmail.com**
-    - ⚡ Fun fact **! I can lick my own elbow**
+    <p>- 🌱 I’m currently learning **React**</p>
+    <p>- 👨‍💻 All of my projects are available at [https://github.com/MUKTADIR-ALAM?tab=repositories](https://github.com/MUKTADIR-ALAM?tab=repositories)</p>
+    <p>- 💬 Ask me about **react** - 📫 How to reach me **muktdiralam38@gmail.com**</p>
+    <p>- ⚡ Fun fact **! I can lick my own elbow**</p>
   </div>
   <div style="width: 50%;">
     <img
@@ -22,6 +21,7 @@
     />
   </div>
 </div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
