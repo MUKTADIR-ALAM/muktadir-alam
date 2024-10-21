@@ -7,7 +7,8 @@
 <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="" width="400" height="400"/>
 
 
-- 🌱 I’m currently learning **React**
+<div style="display:inline;">
+  - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MUKTADIR-ALAM?tab=repositories](https://github.com/MUKTADIR-ALAM?tab=repositories)
 
@@ -16,6 +17,7 @@
 - 📫 How to reach me **muktdiralam38@gmail.com**
 
 - ⚡ Fun fact **! I can lick my own elbow**
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
