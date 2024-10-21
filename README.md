@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Muktadir Alam</h1>
 <h3 align="center">A passionate Mernstack developer from Bangladesh</h3>
 
-<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="" />
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="" width="500" height="600"/>
 
 
 - 🌱 I’m currently learning **React**
