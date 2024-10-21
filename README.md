@@ -4,10 +4,8 @@
 <h1 align="center">Hi 👋, I'm Muktadir Alam</h1>
 <h3 align="center">A passionate Mernstack developer from Bangladesh</h3>
 
-<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="" width="400" height="400"/>
-
-
-<div style="display:inline;">
+<div style="display:flex;">
+    <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="" width="300" height="300"/>
   - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MUKTADIR-ALAM?tab=repositories](https://github.com/MUKTADIR-ALAM?tab=repositories)
