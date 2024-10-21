@@ -5,13 +5,7 @@
 <h3 align="center">A passionate Mernstack developer from Bangladesh</h3>
 
 <div style="display: flex; justify-content: center; align-items: center">
-  <div style="width: 50%">
-    <p>- 🌱 I’m currently learning **React**</p>
-    <p>- 👨‍💻 All of my projects are available at </p>
-    <p>- 💬 Ask me about **react** - 📫 How to reach me **muktdiralam38@gmail.com**</p>
-    <p>- ⚡ Fun fact **! I can lick my own elbow**</p>
-  </div>
-  <div style="width: 50%;">
+    <div style="width: 50%;">
     <img
       style="margin-left: 20px;"
       src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"
@@ -20,6 +14,13 @@
       height="300"
     />
   </div>
+  <div style="width: 50%">
+    <p>- 🌱 I’m currently learning **React**</p>
+    <p>- 👨‍💻 All of my projects are available at </p>
+    <p>- 💬 Ask me about **react** - 📫 How to reach me **muktdiralam38@gmail.com**</p>
+    <p>- ⚡ Fun fact **! I can lick my own elbow**</p>
+  </div>
+
 </div>
 
 
