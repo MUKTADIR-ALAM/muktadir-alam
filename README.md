@@ -7,7 +7,7 @@
 <div style="display: flex; justify-content: center; align-items: center">
   <div style="width: 50%">
     <p>- 🌱 I’m currently learning **React**</p>
-    <p>- 👨‍💻 All of my projects are available at [https://github.com/MUKTADIR-ALAM?tab=repositories](https://github.com/MUKTADIR-ALAM?tab=repositories)</p>
+    <p>- 👨‍💻 All of my projects are available at </p>
     <p>- 💬 Ask me about **react** - 📫 How to reach me **muktdiralam38@gmail.com**</p>
     <p>- ⚡ Fun fact **! I can lick my own elbow**</p>
   </div>
