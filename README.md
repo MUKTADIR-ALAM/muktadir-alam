@@ -6,8 +6,9 @@
 
 <div style="display:flex;">
     
-  - 🌱 I’m currently learning **React**
-
+<div style="width:50%;">
+- 🌱 I’m currently learning **React**
+    
 - 👨‍💻 All of my projects are available at [https://github.com/MUKTADIR-ALAM?tab=repositories](https://github.com/MUKTADIR-ALAM?tab=repositories)
 
 - 💬 Ask me about **react**
@@ -15,7 +16,10 @@
 - 📫 How to reach me **muktdiralam38@gmail.com**
 
 - ⚡ Fun fact **! I can lick my own elbow**
-<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="" width="200" height="200"/>
+</div>
+<div style="width:50%;">
+    <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="" width="full" height="300"/>
+</div>
 </div>
 
 <h3 align="left">Connect with me:</h3>
