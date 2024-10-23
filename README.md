@@ -5,13 +5,9 @@
 <h3 align="center">A passionate Mernstack developer from Bangladesh</h3>
 
 
-    <img
-      src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif
-      width="300"
-      height="300"/>
 
 - 🌱 I’m currently learning **React**
-- 👨‍💻 All of my projects are available at
+- 👨‍💻 All of my projects are available at my github
 - 💬 Ask me about **react** - 📫 How to reach me **muktdiralam38@gmail.com**
  - ⚡ Fun fact **! I can lick my own elbow**
 
