@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **React**
 - 👨‍💻 All of my projects are available at my github
 - 💬 Ask me about **react** - 📫 How to reach me **muktdiralam38@gmail.com**
- - ⚡ Fun fact [**! I can lick my own elbow**]
+ - ⚡ Fun fact [ **! I can lick my own elbow** ]
 
 
 <h3 align="left">Connect with me:</h3>
