@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Muktadir Alam</h1>
-<h3 align="center">A passionate Mernstack developer from Bangladesh</h3>
+<h3 align="center">A passionate Mernstack developer from the cosmos</h3>
 
 
 
