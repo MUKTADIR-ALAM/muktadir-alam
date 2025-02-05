@@ -26,7 +26,7 @@
 
 ###
 
-<h6 align="left">✨ Creating bugs since 2020...<br>📚 I'm currently learning Next js<br>🎯 Goals: Solve problems with building web applications<br>🎲 Fun fact:  Bodybuilding – Fitness and strength are a big part of my life</h6>
+<p align="left">✨ Creating bugs since 2020...<br>📚 I'm currently learning Next js<br>🎯 Goals: Solve problems with building web applications<br>🎲 Fun fact:  Bodybuilding – Fitness and strength are a big part of my life</p>
 
 ###
 
