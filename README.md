@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="385" src="https://i.ibb.co.com/0yYpZJr5/Wrb.png"  />
+  <img height="400" src="https://i.ibb.co.com/G4kj8wN3/Wrb-1.png"  />
 </div>
 
 ###
@@ -10,7 +10,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MUKTADIR-ALAM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MUKTADIR-ALAM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=MUKTADIR-ALAM&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=MUKTADIR-ALAM&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUKTADIR-ALAM&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -19,11 +22,11 @@
 
 ###
 
-<h6 align="left">I'm a passionate MERN stack developer with skills in JavaScript, react, Tailwind CSS, MongoDB, firebase, Express JS, and modern web technologies. Currently, I am focusing on learning Next Js. I love building user-friendly, high-performance websites and constantly strive to enhance my skills.</h6>
+<p align="left">I'm a passionate MERN stack developer with skills in JavaScript, react, Tailwind CSS, MongoDB, firebase, Express JS, and modern web technologies. Currently, I am focusing on learning Next Js. I love building user-friendly, high-performance websites and constantly strive to enhance my skills.</p>
 
 ###
 
-<p align="left">✨ Creating bugs since 2020...<br>📚 I'm currently learning Next js<br>🎯 Goals: Solve problems with building web applications<br>🎲 Fun fact:  Bodybuilding – Fitness and strength are a big part of my life</p>
+<h6 align="left">✨ Creating bugs since 2020...<br>📚 I'm currently learning Next js<br>🎯 Goals: Solve problems with building web applications<br>🎲 Fun fact:  Bodybuilding – Fitness and strength are a big part of my life</h6>
 
 ###
 
